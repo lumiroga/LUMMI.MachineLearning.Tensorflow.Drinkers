@@ -129,7 +129,7 @@ keep_prob = tf.placeholder("float")
 
 
 #training setup
-training_epochs = 5000
+training_epochs = 6000
 display_step = 1000
 batch_size = 32
 
