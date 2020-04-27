@@ -1,0 +1,5 @@
+{
+    "git.ignoreLimitWarning": true,
+    "git.ignoredRepositories": ["./Neural Network/cat_or_dog/test1","./Neural Network/cat_or_dog/train"]
+
+}
